@@ -64,9 +64,8 @@ body {
 }
 
 img {
-    width: 175.6px;
+    width: 100%;
     object-fit: cover;
-    height: 259.4px;
   
 }
 
